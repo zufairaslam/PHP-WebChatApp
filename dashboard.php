@@ -147,7 +147,7 @@ function fetchMessages() {
         .catch(error => console.error('Error:', error));
 }
 
-setInterval(fetchMessages, 5000);
+setInterval(fetchMessages, 1000);
 
 fetchMessages();
   </script>
