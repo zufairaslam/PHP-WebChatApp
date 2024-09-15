@@ -35,3 +35,4 @@ Follow these steps to set up and run the project on your local machine.
    ```bash
    git clone https://github.com/your-username/PHP-WebChatApp.git
    cd PHP-WebChatApp
+
